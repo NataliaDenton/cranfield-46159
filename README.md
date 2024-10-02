@@ -1,11 +1,8 @@
 # intro week 
 ## here are some useful codes to start out. 
 
-# Largest Heading
-## Second largest heading
-### Third largest heading
+this is the first text edited using the nano comand
 
-You can type any text in markdown. You can write *italic* text and **bold text**.
 
 You can provide inline code as `int var = 42;` or an entire code section as
 
