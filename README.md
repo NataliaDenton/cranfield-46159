@@ -1,10 +1,11 @@
 #intro week 
+##here are some useful codes to start out. 
 
-# matlab code under development to visualise water flow out of a tank
-## lumped parameter description assumed based on analytical solutions
+# Largest Heading
+## Second largest heading
+### Third largest heading
 
-the code is implemented based on the presented derivation.
-
+You can type any text in markdown. You can write *italic* text and **bold text**.
 
 You can provide inline code as `int var = 42;` or an entire code section as
 
